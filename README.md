@@ -7,6 +7,7 @@ Um projeto de teste para aprendar a usar o README.md 🚀
 - HTML
 - CSS
 - JS
+- Screen to Gif
 
 ## Como utilizar
 
